@@ -5,4 +5,4 @@ This is a sample application for an intro to JavaScript class. We've only covere
 
 Code could be shortened and refactored, but it is intended to be read by novice JavaScript programmers.
 
-It was intended to be simple, I hope I succedded.
+It was intended to be simple, I hope I succeeded.
